@@ -1,0 +1,7 @@
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\bin\Debug\ConsoleApp-Simple Dice Game.exe.config
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\bin\Debug\ConsoleApp-Simple Dice Game.exe
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\bin\Debug\ConsoleApp-Simple Dice Game.pdb
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\obj\Debug\ConsoleApp-Simple Dice Game.csproj.AssemblyReference.cache
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\obj\Debug\ConsoleApp-Simple Dice Game.csproj.CoreCompileInputs.cache
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\obj\Debug\ConsoleApp-Simple Dice Game.exe
+D:\c#\ConsoleApp-Simple Dice Game\ConsoleApp-Simple Dice Game\obj\Debug\ConsoleApp-Simple Dice Game.pdb
